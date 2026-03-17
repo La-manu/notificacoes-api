@@ -109,12 +109,12 @@ router.get("/:id", EventoController.show);
  *                 type: string
  *               capacidade:
  *                 type: integer
- *             example:
- *               nome: "Palestra sobre APIs"
- *               descricao: "Como construir APIs profissionais"
- *               data: "2025-10-10"
- *               local: "SENAI - Sala 5"
- *               capacidade: 50
+ *           example:
+ *             nome: "Palestra sobre APIs"
+ *             descricao: "Como construir APIs profissionais"
+ *             data: "2025-10-10"
+ *             local: "SENAI - Sala 5"
+ *             capacidade: 50
  *     responses:
  *       201:
  *         description: Evento criado com sucesso

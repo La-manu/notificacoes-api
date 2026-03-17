@@ -7,5 +7,5 @@ para participantes de eventos.
 ## 🚀 Como Rodar
 1. Clone o repositório:
 ```bash
-git clone https://github.com/SEU-USUARIO/notificacoes-api.git
+git clone https://github.com/La-manu/notificacoes-api.git
 ```
